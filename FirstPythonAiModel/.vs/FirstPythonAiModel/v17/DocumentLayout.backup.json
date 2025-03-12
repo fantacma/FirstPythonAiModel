@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davaadorj.o\\source\\repos\\FirstPythonAiModel\\FirstPythonAiModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55DE964D-4447-4E35-91AC-C6E5DE48A553}|FirstPythonAiModel\\FirstPythonAiModel.pyproj|C:\\Users\\davaadorj.o\\source\\repos\\FirstPythonAiModel\\FirstPythonAiModel\\FirstPythonAiModel\\FirstPythonAiModel.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{55DE964D-4447-4E35-91AC-C6E5DE48A553}|FirstPythonAiModel\\FirstPythonAiModel.pyproj|solutionrelative:FirstPythonAiModel\\FirstPythonAiModel.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstPythonAiModel.py",
+              "DocumentMoniker": "C:\\Users\\davaadorj.o\\source\\repos\\FirstPythonAiModel\\FirstPythonAiModel\\FirstPythonAiModel\\FirstPythonAiModel.py",
+              "RelativeDocumentMoniker": "FirstPythonAiModel\\FirstPythonAiModel.py",
+              "ToolTip": "C:\\Users\\davaadorj.o\\source\\repos\\FirstPythonAiModel\\FirstPythonAiModel\\FirstPythonAiModel\\FirstPythonAiModel.py",
+              "RelativeToolTip": "FirstPythonAiModel\\FirstPythonAiModel.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-12T01:27:25.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
